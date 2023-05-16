@@ -1,4 +1,4 @@
-/* Estilos customizados */
+/* Limpar configuração padrão */
 
 * {
     margin: 0;
@@ -9,4 +9,12 @@ body {
     font-size: 1em;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     background: #e6e6e6;
+}
+
+/* Layout */
+
+#area-cabeçalho{
+    background-color: #8A2BE2;
+    padding: 15px;
+    text-align: center;
 }
